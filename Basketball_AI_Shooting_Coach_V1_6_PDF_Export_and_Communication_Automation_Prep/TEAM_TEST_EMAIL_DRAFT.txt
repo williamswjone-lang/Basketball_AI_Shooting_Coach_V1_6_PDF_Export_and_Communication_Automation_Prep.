@@ -28,6 +28,8 @@ Please reply with:
 
 If anything fails, include a screenshot and what step you were on.
 
+If the app shows "Application Loading" for more than 2-3 minutes, refresh once and try again.
+
 Helpful docs:
 - One-page checklist: TEAM_TEST_ONE_PAGE_CHECKLIST.md
 - Quickstart options: TEAM_TEST_QUICKSTART.md
