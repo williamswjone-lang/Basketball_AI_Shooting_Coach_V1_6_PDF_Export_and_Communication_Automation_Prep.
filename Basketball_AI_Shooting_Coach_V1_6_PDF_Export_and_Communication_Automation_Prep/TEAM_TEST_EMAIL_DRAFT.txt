@@ -1,0 +1,35 @@
+Subject: Team Test Request - Basketball AI Shooting Coach V2.9 (10-15 min)
+
+Hi Team,
+
+We are ready for a short feedback round on Basketball AI Shooting Coach V2.9.
+
+Test URL (deployed app):
+https://basketball-ai-shooting-coach-v1-6-pdf.onrender.com/
+
+Code Repository:
+https://github.com/williamswjone-lang/Basketball_AI_Shooting_Coach_V1_6_PDF_Export_and_Communication_Automation_Prep..git
+
+Time needed:
+10-15 minutes
+
+What to do (quick test):
+1) Open the app and navigate key pages.
+2) Set player context and confirm it feels clear.
+3) Upload one challenge video and confirm preview works.
+4) Run one evaluation flow.
+5) Generate one PDF and open it.
+
+Please reply with:
+- One thing that broke
+- One thing that felt confusing
+- One thing you liked
+- Quick ratings (1-5): ease of use, reliability, speed, would use again
+
+If anything fails, include a screenshot and what step you were on.
+
+Helpful docs:
+- One-page checklist: TEAM_TEST_ONE_PAGE_CHECKLIST.md
+- Quickstart options: TEAM_TEST_QUICKSTART.md
+
+Thank you.

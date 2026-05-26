@@ -1,0 +1,5 @@
+timestamp,plan_id,plan_scope,subject_name,team_name,focus_area,skill_level,completed_drills,total_drills,completion_percent,status,notes
+2026-05-24T14:19:27,4,Individual,Malik Private (MJ),,Release & Extension,Intermediate,1,1,100.0,Completed,deterministic completion
+2026-05-24T14:21:25,5,Individual,Malik Private (MJ),,Release & Extension,Intermediate,1,1,100.0,Completed,deterministic completion
+2026-05-24T14:28:42,7,Individual,Malik Private (MJ),,Release & Extension,Intermediate,1,1,100.0,Completed,deterministic completion
+2026-05-25T18:56:05,14,Individual,Malik Private (MJ),,Release & Extension,Intermediate,1,1,100.0,Completed,deterministic completion

@@ -1,0 +1,20 @@
+Team - please test our Basketball AI app today.
+
+URL: <PASTE_URL_HERE>
+Time needed: 10-15 minutes
+
+Please do these 5 things:
+1) Open app and navigate key pages
+2) Pick player context
+3) Upload one challenge video and check preview
+4) Run one evaluation flow
+5) Generate one PDF and open it
+
+Reply with:
+- One thing that broke
+- One confusing thing
+- One thing you liked
+- Your quick rating (1-5): ease, reliability, speed, would use again
+
+If anything fails, include a screenshot.
+Thanks.

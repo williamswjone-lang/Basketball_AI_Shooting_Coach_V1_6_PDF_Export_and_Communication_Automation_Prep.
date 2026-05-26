@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: basketball-ai-shooting-coach-v29
+    env: python
+    plan: starter
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --server.fileWatcherType none
+    healthCheckPath: /
+    autoDeploy: true

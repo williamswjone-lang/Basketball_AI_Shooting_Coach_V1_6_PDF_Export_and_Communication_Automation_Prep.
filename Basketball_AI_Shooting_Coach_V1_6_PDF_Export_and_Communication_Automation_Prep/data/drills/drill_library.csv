@@ -1,0 +1,8 @@
+drill_id,drill_name,target_fundamental,description,reps,coaching_cues,created_at,skill_levels,demo_video_path,coach_demo_video_path,demo_video_url,instruction_card_path,qr_code_path,homework_template,at_home_plan_template,coach_demo_notes
+2,Chair Load to Shot,Balance & Load,Drill for Balance & Load,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,https://example.com/v28-demo-video,outputs\instruction_cards\deterministic_instruction_card_20260525_185607.pdf,outputs\qr_codes\Chair_Load_to_Shot_deterministic_qr_20260525_185607.png,Complete 75 reps.,3x25 reps with tracking.,
+4,One-Hand Alignment Form Shooting,Elbow & Arm Alignment,Drill for Elbow & Arm Alignment,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,
+1,Base Balance Form Shooting,Feet & Stance,Drill for Feet & Stance,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,
+7,Hold-the-Finish Landing Drill,Follow-Through & Landing,Drill for Follow-Through & Landing,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,
+6,High-Finish Extension Drill,Release & Extension,Drill for Release & Extension,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,
+5,Eyes-Early Set Point Drill,Set Point & Eyes,Drill for Set Point & Eyes,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,
+3,Pocket Repeat Catch-and-Rise,Shot Pocket / Ball Prep,Drill for Shot Pocket / Ball Prep,5 spots x 10 makes,"Focus on clean, repeatable mechanics.",2026-05-17T20:49:07,,,,,,,,,

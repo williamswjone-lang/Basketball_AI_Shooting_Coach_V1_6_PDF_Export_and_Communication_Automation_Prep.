@@ -1,0 +1,25 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+*.log
+.tmp*
+
+# Virtual environments
+.venv/
+.venv*/
+venv/
+
+# Local env files
+.env
+
+# Generated outputs and media artifacts
+outputs/
+uploaded_videos/
+uploads/
+extracted_frames/
+chain_smoke_logs/
+
+# OS/editor
+.DS_Store
+Thumbs.db
