@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: basketball-ai-shooting-coach-v1-6-pdf
+    env: python
+    rootDir: Basketball_AI_Shooting_Coach_V1_6_PDF_Export_and_Communication_Automation_Prep
+    buildCommand: pip install --upgrade pip && pip install -r requirements.txt
+    startCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0 --server.headless true --server.fileWatcherType none
+    healthCheckPath: /
+    autoDeploy: true
